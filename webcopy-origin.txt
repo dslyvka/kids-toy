@@ -1,0 +1,260 @@
+Uri: https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-animate.min.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ajax\libs\angularjs\1.6.6\angular-animate.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular-touch.min.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ajax\libs\angularjs\1.6.6\angular-touch.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ajax\libs\angularjs\1.6.6\angular.min.js
+Content Type: text/javascript
+
+Uri: https://assets.onestore.ms/cdnfiles/external/oneui/oneui1.16.2/dist/css/app.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\cdnfiles\external\oneui\oneui1.16.2\dist\css\app.css
+Content Type: text/css
+
+Uri: https://assets.onestore.ms/cdnfiles/onestorerolling-1510-19009/shell/v3/scss/shell.min.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\cdnfiles\onestorerolling-1510-19009\shell\v3\scss\shell.min.css
+Content Type: text/css
+
+Uri: https://c.s-microsoft.com/ru-ru/CMSStyles/style.csx?k=b38e7b38-f2bd-90bd-16b5-45a457a50550
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ru-ru\CMSStyles\style.csx
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\index.htm
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/about/analytics/terms/ru/index.htm
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\about\analytics\terms\ru\index.htm
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/cookie-policy.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\cookie-policy.html
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/delivery-terms.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\delivery-terms.html
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/index.htm
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\index-1.htm
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/privacy-policy.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\privacy-policy.html
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/public-offer.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\public-offer.html
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/ru-ru/privacystatement.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ru-ru\privacystatement.html
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/ru/privacy/websites/index.htm
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\ru\privacy\websites\index.htm
+Content Type: text/html
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/css/fonts.css@ver=3.1.0.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\css\fonts.css@ver=3.1.0.css
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/css/landing-style-2.css@ver=3.1.0.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\css\landing-style-2.css@ver=3.1.0.css
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068905_w640_h640_4994068905.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068905_w640_h640_4994068905.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068909_w640_h640_4994068909.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068909_w640_h640_4994068909.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068913_w640_h640_4994068913.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068913_w640_h640_4994068913.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068914_w640_h640_4994068914.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068914_w640_h640_4994068914.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068922_w640_h640_4994068922.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068922_w640_h640_4994068922.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068926_w640_h640_4994068926.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068926_w640_h640_4994068926.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/4994068927_w640_h640_4994068927.webp
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\4994068927_w640_h640_4994068927.webp
+Content Type: image/webp
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/bg_light541ff.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\bg_light541ff.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/com.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\com.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/comm2.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\comm2.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer3__benefit1_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer3__benefit2_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer3__benefit3_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer3__clock_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer3__clock_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer__name_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer__phone_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/offer__tick_icon.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\offer__tick_icon.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_info2__delivery_image.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_info2__delivery_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_info2__guarantee_image.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_info2__guarantee_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_info2__payment_image.jpg
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_info2__payment_image.jpg
+Content Type: image/jpeg
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_steps__step1_icon34f4b.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_steps__step1_icon34f4b.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_steps__step2_icon20e71.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_steps__step2_icon20e71.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_steps__step3_iconc7f64.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_steps__step3_iconc7f64.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/order_steps__step4_icond62f0.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\order_steps__step4_icond62f0.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/quote1_icon1e9b1.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\quote1_icon1e9b1.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/reviews2__arrows2e291.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\reviews2__arrows2e291.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/separator_red756b8.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\separator_red756b8.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/slider__arrows.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\slider__arrows.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/img/title-703.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\img\title-703.png
+Content Type: image/png
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/js/countdown-1.js@ver=3.1.0
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\js\countdown-1.js@ver=3.1.0
+Content Type: 
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/js/countdown.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/js/jquery.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/js/scripts.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/style.css@ver=3.1.0.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\style.css@ver=3.1.0.css
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/vendor/owl.carousel.min.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\vendor\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/vendor/owl.carousel.min.js
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\vendor\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/vendor/swiper-bundle.min.css@ver=8.3.1.css
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\vendor\swiper-bundle.min.css@ver=8.3.1.css
+Content Type: text/css
+
+Uri: https://cosmetic.knifenabir.website/wp-content/themes/tovarka/vendor/swiper-bundle.min.js@ver=8.3.1
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\wp-content\themes\tovarka\vendor\swiper-bundle.min.js@ver=8.3.1
+Content Type: 
+
+Uri: https://cosmetic.knifenabir.website/xfn/11.html
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\xfn\11.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Google+Sans:400,500|Product+Sans:400&lang=en
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\css
+Content Type: text/css
+
+Uri: https://www.facebook.com/tr?id=&ev=PageView&noscript=1
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=1038543930654298&ev=PageView&noscript=1
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\tr-1
+Content Type: text/plain
+
+Uri: https://www.gstatic.com/images/branding/googleg/2x/googleg_standard_color_192dp.png
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\images\branding\googleg\2x\googleg_standard_color_192dp.png
+Content Type: image/png
+
+Uri: https://www.gstatic.com/images/branding/product/ico/googleg_alldp.ico
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\images\branding\product\ico\googleg_alldp.ico
+Content Type: image/x-icon
+
+Uri: https://www.gstatic.com/images/branding/product/ico/googleg_standard_16dp.ico
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\images\branding\product\ico\googleg_standard_16dp.ico
+Content Type: image/x-icon
+
+Uri: https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\images\branding\product\ico\googleg_standard_32dp.ico
+Content Type: image/x-icon
+
+Uri: https://www.microsoft.com/favicon.ico?v2
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/cyrillic/shell/_scrf/css/themes=default.device=uplevel_web_pc/79-4cdd0a/33-ae3d41/a5-4bf7a2/13-8e1ceb/81-32f0c0/5c-b7b685/92-14707b/74-888e54?ver=2.0&amp;_cf=20210618
+File Name: D:\Товарка\Косметичка\Лендос\cosmetic.knifenabir.website\onerfstatics\marketingsites-wcus-prod\cyrillic\shell\_scrf\css\themes=default.device=uplevel_web_pc\79-4cdd0a\33-ae3d41\a5-4bf7a2\13-8e1ceb\81-32f0c0\5c-b7b685\92-14707b\74-888e54
+Content Type: text/css
+
